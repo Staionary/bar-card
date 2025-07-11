@@ -252,6 +252,8 @@ type: 'custom:bar-card'
 
 Inspired by [Big Number Card](https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card) by [ciotlosm](https://github.com/ciotlosm).
 
+Forked from [Custom cards](https://github.com/custom-cards/bar-card).
+
 ## Links
 
 [Home Assistant Community Topic](https://community.home-assistant.io/t/lovelace-bar-card/87503)
